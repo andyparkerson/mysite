@@ -1,0 +1,26 @@
+.rectangle {
+	width: 70%;
+	height: 100%;
+	background: lightgreen;
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkgreen;
+    box-sizing: border-box;
+    position: absolute;
+}
+#box {
+    width: 220px;
+    height: 110px;
+    text-align: right;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+.value {
+    width: 100%;
+    position: absolute;
+    text-align: right;
+}
